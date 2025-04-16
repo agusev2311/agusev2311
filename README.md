@@ -1,4 +1,4 @@
-# Hi, I'm Artyom Gusev! 👋
+# Hi, I'm Artem Gusev! 👋
 
 I'm passionate about programming and computer gaming. Here are the key details about me:
 
