@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Artyom Gusev! 👋
 
-<!--
-**agusev2311/agusev2311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about programming and computer gaming. Here are the key details about me:
 
-Here are some ideas to get you started:
+## Contacts
+- **Emails:**  
+  - First: [agusev2311@mail.ru](mailto:agusev2311@mail.ru)
+  - Second: [gus_art_22@mail.ru](mailto:gus_art_22@mail.ru)  
+- **Telegram:** [Chat with me on Telegram](https://t.me/agusev2311)
+- **Steam:** [My Steam Profile](https://steamcommunity.com/id/agusev2311/)
+- **GitHub:** [My GitHub](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **matprak_bot:** Telegram bot developed to help teachers check solutions.
+  [GitHub](https://github.com/agusev2311/matprak_bot)
+  [Telegram](https://t.me/sil_class_manager_bot)
+- **peepochat:** Minecraft mod created to improve chat on the pepeland server. A project available on Modrinth.
+  [Modrinth](https://modrinth.com/mod/peepochat)
+  [GitHub](https://github.com/agusev2311/peepochat)
+
+## Technologies & Skills
+- **Programming Language:** Python – proficient.
+- **Flask:** Basic level (creating endpoints, dynamic HTML pages that accept different parameters, and some experience with Limiter).
+- **Databases:** SQLite, PostgreSQL.
+- Additional technologies: I'm open to experimenting with other tools as needed.
+
+## English Proficiency
+- **Level:** A2+
