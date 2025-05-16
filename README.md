@@ -24,5 +24,9 @@ I'm passionate about programming and computer gaming. Here are the key details a
 - **Databases:** SQLite, PostgreSQL.
 - Additional technologies: I'm open to experimenting with other tools as needed.
 
+
+## My Github stats:
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=agusev2311&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agusev2311&layout=donut&theme=tokyonight)
+
 ## English Proficiency
 - **Level:** A2+
