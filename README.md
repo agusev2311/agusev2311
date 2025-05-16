@@ -26,7 +26,7 @@ I'm passionate about programming and computer gaming. Here are the key details a
 
 
 ## My Github stats:
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=agusev2311&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agusev2311&layout=donut&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=agusev2311) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agusev2311)
 
 ## English Proficiency
 - **Level:** A2+
